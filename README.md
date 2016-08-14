@@ -33,7 +33,7 @@ We can use the command ```—save-dev``` instead of ```—save``` for dependanci
 ####3.
 Now the project should be ready for coding and we can open the file index.js (or what ever you have named it) and start working on the project.
 
-You can take a look at the sample code from class [here](https://github.com/reykjavik-university/2015-T-514-VEFT/blob/master/Week08/code_examples/index.js)
+You can take a look at the sample code from class [here](https://github.com/sigurdura13/nodejs-project-setup-instructions/blob/master/sample-project.mp)
 
 But it’s good to set up in the beginning of index.js ```'use strict';``` to set the project to strict mode and add const ```express = require('express');``` to include the library installed. You need to do this for all dependancies installed.
 
